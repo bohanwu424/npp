@@ -1,0 +1,6 @@
+--name=wass_spec --diverge=wass --skew=0 --rate=0.1
+--name=wass_miss --diverge=wass --skew=10 --rate=0.1
+--name=mmd_spec --diverge=mmd --skew=0 --rate=0.49
+--name=mmd_miss --diverge=mmd --skew=10 --rate=0.49
+--name=ksd_spec --diverge=ksd --skew=0 --rate=0.49
+--name=ksd_miss --diverge=ksd --skew=10 --rate=0.49

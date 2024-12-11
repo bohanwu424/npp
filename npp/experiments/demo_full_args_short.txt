@@ -1,0 +1,2 @@
+--name=wass_spec --diverge=wass --skew=0 --rate=0.4
+--name=wass_miss --diverge=wass --skew=10 --rate=0.4
